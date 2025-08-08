@@ -1,0 +1,28 @@
+# Linux Learning Journey - Day 1
+
+**Date:** 7 August 2025
+
+## What I Learned Today
+Today, I explored important system directories in Linux and practiced navigating the filesystem using basic commands.
+
+### Commands Practiced:
+- `pwd` → Print current working directory
+- `cd` → Change directory
+- `ls` → List files and directories
+
+### Directories Explored:
+- **/dev** → Contains device files (interfaces to hardware and virtual devices)
+- **/bin** → Holds essential user command binaries (e.g., ls, cat, cp)
+- **/etc/network** → Network configuration files
+- **/var/log** → Stores log files for troubleshooting
+- **/etc** → Configuration files for the system
+
+### Why This Matters:
+Understanding these directories is essential for:
+- Troubleshooting
+- Security analysis
+- System administration tasks
+
+---
+
+*First step in my Linux journey complete ✅. Tomorrow, I’ll explore the /home directory and more commands.*
